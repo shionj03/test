@@ -1,5 +1,9 @@
 git init
-touch .gitignore
 plugin - git lens
-gitignore
-add files to .gitignore
+gitignore - add files to .gitignore
+
+//test comment
+
+git add . - stage files
+git reset . - unstaged files
+git commit -m "description here"
