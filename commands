@@ -2,7 +2,7 @@ git init
 plugin - git lens
 gitignore - add files to .gitignore
 
-//test comment
+//test
 
 git add . - stage files
 git reset . - unstaged files
