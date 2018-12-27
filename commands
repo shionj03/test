@@ -7,5 +7,6 @@ gitignore - add files to .gitignore
 git add . - stage files
 git reset . - unstaged files
 git commit -m "description here"
-git checkout -b nameOfBranch
-git branch
+git checkout -b nameOfBranch  //createing new branch
+git checkout nameOfBranch //switching branch
+git branch //branch list
