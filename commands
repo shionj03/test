@@ -13,4 +13,6 @@ git branch //branch list
 git stash -u //stash files when you dont want to commit and you want switch to another branch
 git stash pop //bring back the uncommited files
 git merge nameOfBranch //it will merge the latest commits of nameOfBranch to the current branch
-//new test
+git remote add origin https://github.com/shionj03/test.git  //connecting local repo to remote repository
+git push -u origin master //pushing updates
+git clone https://github.com/shionj03/test.git //allows to copy the code from remote to local repo
