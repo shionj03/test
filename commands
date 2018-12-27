@@ -10,3 +10,5 @@ git commit -m "description here"
 git checkout -b nameOfBranch  //createing new branch
 git checkout nameOfBranch //switching branch
 git branch //branch list
+git stash -u //stash files when you dont want to commit and you want switch to another branch
+git stash pop //bring back the uncommited files
